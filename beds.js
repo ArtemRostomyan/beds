@@ -71,6 +71,7 @@
     {
         "id": "cart-4",
         "name": "Mona Lisa",
+        "type": "bed",
         "images": [
             "https://mnogosna.ru/images/products/product_img_9965.jpg",
             "https://mnogosna.ru/images/products/product_add_pic_16432.jpg",
