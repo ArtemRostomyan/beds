@@ -1,6 +1,7 @@
 [
     {
         "id": "cart-1",
+        "type": "bed",
         "name": "Milan Lucino",
         "images": [
             "https://matras32.ru/icache/i/www.mebhome.ru/imgup/97186_0.jpg",
@@ -23,6 +24,7 @@
     },
     {
         "id": "cart-2",
+        "type": "bed",
         "name": "Paris",
         "images": [
             "https://www.vashmatrass.ru/files/images/ecommerce/bigproduct-141277917959653700.jpeg",
@@ -45,6 +47,7 @@
     },
     {
         "id": "cart-3",
+        "type": "bed",
         "name": "leonardo da Vinci",
         "images": [
             "https://mnogosna.ru/images/products/product_add_pic_29481.jpg",
