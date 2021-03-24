@@ -10,6 +10,7 @@
             "https://kayrosblog.ru/wp-content/uploads/2018/06/Kak-delayut-ortopedicheskoe-osnovanie-dlya-krovati-4.jpg",
             "http://rina-mebel.ru/uploadedFiles/eshopimages/big/krovat_tokio_4.jpg"
         ],
+        "кант": true,
         "механизм": false,
         "length": 900,
         "рама": "дуб",
@@ -33,6 +34,7 @@
             "https://www.vashmatrass.ru/files/images/ecommerce/bigproduct-143522745829054700.jpeg",
             "https://www.vashmatrass.ru/files/images/ecommerce/bigproduct-143522745829087200.jpeg"
         ],
+        "кант": true,
         "механизм": true,
         "length": 1400,
         "рама": "бук",
@@ -56,6 +58,7 @@
             "https://mnogosna.ru/images/products/product_add_pic_29484.jpg",
             "https://mnogosna.ru/images/products/product_add_pic_29431.jpg"
         ],
+        "кант": true,
         "механизм": true,
         "length": 1800,
         "рама": "орех",
@@ -79,6 +82,7 @@
             "https://mnogosna.ru/images/products/product_add_pic_16430.jpg",
             "https://mnogosna.ru/images/products/product_add_pic_16431.jpg"
         ],
+        "кант": true,
         "механизм": false,
         "length": 1400,
         "рама": "дуб",
@@ -102,6 +106,7 @@
             "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg",
             "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg"
         ],
+        "кант": true,
         "подушки": "средний",
         "основание_рамы": "металлокаркас",
         "пух": "натуральный",
