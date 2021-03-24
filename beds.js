@@ -90,5 +90,28 @@
         "реечное_дно": "ортопедическое",
         "массивная_рама": "МДф",
         "ткань": "рогожка"
+    },
+    {
+        "id": "cart-5",
+        "name": "Panda",
+        "type": "sofa",
+        "images": [
+            "https://valles.top/upload/iblock/50d/50d812974d9418810e23aebb9205d1e4.jpeg",
+            "https://valles.top/upload/iblock/bda/bda83b7f5ff738c043cad65be5937256.jpeg",
+            "https://valles.top/upload/iblock/3dc/3dc84be1dec589cb664a8d6883351929.jpeg",
+            "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg",
+            "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg"
+        ],
+        "подушки": "средний",
+        "основание_рамы": "металлокаркас",
+        "пух": "натуральный",
+        "механизм": "отелло",
+        "ножки": true,
+        "толщина_спинки": "200",
+        "толщина_подлокотника": "",
+        "каретная_стяжка": true,
+        "отстрочка": false,
+        "кант": false,
+        "ткань": "рогожка"
     }
 ]
