@@ -106,6 +106,9 @@
             "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg",
             "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg"
         ],
+        "configuration": "прямой",
+        "rules_armrest": false,
+        "armrest": true,
         "кант": true,
         "подушки": "средний",
         "width": 750,
