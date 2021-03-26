@@ -162,11 +162,11 @@
         "name": "Irina",
         "type": "sofa",
         "images": [
-            "https://mebilar.ru/wa-data/public/shop/products/54/17/1754/images/8821/Mirta_uglovoy_2500render.970.jpg",
-            "https://mebilar.ru/wa-data/public/shop/products/54/17/1754/images/8822/Polite_316_bezhevyy_lilii_kant-temnyy_.970.jpg",
-            "https://mebilar.ru/wa-data/public/shop/products/54/17/1754/images/8823/Uglovoy-divan-garmoniya-tsveta-2-Mirta-levyy-tkan-bezhevyy-podushki-lilii-TD-300-1-mekhanizm-transformatsii-delfin.970.jpg",
-            "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg",
-            "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg"
+            "https://asmdivan.ru/images/0002/0094.jpg",
+            "https://asmdivan.ru/images/0002/0091.jpg",
+            "https://asmdivan.ru/images/0002/0061.jpg",
+            "https://asmdivan.ru/images/0002/0097.jpg",
+            "https://asmdivan.ru/images/0002/0073.jpg"
         ],
         "ширина": 1020,
         "configuration": "угловой_с_оттоманкой",
