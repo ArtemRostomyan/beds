@@ -107,6 +107,7 @@
             "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg"
         ],
         "ширина": 850,
+        "ромбик": false,
         "configuration": "прямой",
         "rules_armrest": false,
         "armrest": true,
@@ -138,6 +139,7 @@
             "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg"
         ],
         "ширина": 900,
+        "ромбик": true,
         "configuration": "угловой",
         "rules_armrest": false,
         "armrest": true,
@@ -171,6 +173,7 @@
         "ширина": 1020,
         "configuration": "угловой_с_оттоманкой",
         "rules_armrest": false,
+        "ромбик": false,
         "armrest": true,
         "кант": true,
         "основание_рамы": "массив_рамы",
