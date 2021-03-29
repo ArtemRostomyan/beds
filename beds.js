@@ -183,7 +183,7 @@
         "foam": "средний",
         "material_complex": "простая",
         "mechanizm": "пантограф",
-        "legs": "деревянная",
+        "legs": false,
         "thickness_back": 270,
         "thickness_pillow": 150,
         "thickness_armret": 120,
