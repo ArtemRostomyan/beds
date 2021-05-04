@@ -25,7 +25,7 @@
     },
     {
         "id": "cart-2",
-        "type": "bed",
+        "type": "beda",
         "name": "Paris",
         "images": [
             "https://www.vashmatrass.ru/files/images/ecommerce/bigproduct-141277917959653700.jpeg",
@@ -164,7 +164,7 @@
     {
         "id": "cart-7",
         "name": "Irina",
-        "type": "sofay",
+        "type": "sofa",
         "images": [
             "https://asmdivan.ru/images/0002/0094.jpg",
             "https://asmdivan.ru/images/0002/0091.jpg",
