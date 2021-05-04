@@ -25,7 +25,7 @@
     },
     {
         "id": "cart-2",
-        "type": "beda",
+        "type": "poof",
         "name": "Paris",
         "images": [
             "https://www.vashmatrass.ru/files/images/ecommerce/bigproduct-141277917959653700.jpeg",
