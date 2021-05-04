@@ -164,7 +164,7 @@
     {
         "id": "cart-7",
         "name": "Irina",
-        "type": "sofa",
+        "type": "sofay",
         "images": [
             "https://asmdivan.ru/images/0002/0094.jpg",
             "https://asmdivan.ru/images/0002/0091.jpg",
