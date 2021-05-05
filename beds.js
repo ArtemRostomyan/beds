@@ -21,7 +21,7 @@
         "headboard": false,
         "tsarga": true,
         "massive_frame": "МДф",
-        "cloth": "шенил"
+        "cloth": "mat-1"
     },
     {
         "id": "cart-2",
@@ -45,7 +45,7 @@
         "headboard": "стандарт",
         "tsarga": true,
         "massive_frame": "Дуб",
-        "cloth": "велюр"
+        "cloth": "mat-2"
     },
     {
         "id": "cart-3",
@@ -69,7 +69,7 @@
         "fluff": "синтетика",
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
-        "cloth": "рогожка"
+        "cloth": "mat-7"
     },
     {
         "id": "cart-4",
@@ -93,7 +93,7 @@
         "fluff": "синтетика",
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
-        "cloth": "рогожка"
+        "cloth": "mat-7"
     },
     {
         "id": "cart-5",
@@ -123,7 +123,7 @@
         "thickness_armret": 50,
         "carriage_screed": true,
         "backsplash": false,
-        "cloth": "рогожка",
+        "cloth": "mat-4",
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
         "cloth_back": 0.3
@@ -156,7 +156,7 @@
         "thickness_armret": 270,
         "carriage_screed": true,
         "backsplash": true,
-        "cloth": "шенил",
+        "cloth": "mat-3",
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
         "cloth_back": 0.25
@@ -189,7 +189,7 @@
         "thickness_armret": 120,
         "carriage_screed": false,
         "backsplash": true,
-        "cloth": "велюр",
+        "cloth": "mat-1",
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
         "cloth_back": 0.3
