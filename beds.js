@@ -20,6 +20,7 @@
         "headboard": false,
         "tsarga": true,
         "massive_frame": "МДф",
+        "basic_cloth_not_updated": "mat-1",
         "cloth": "mat-1",
         "legs": "металлическая1"
     },
@@ -44,6 +45,7 @@
         "headboard": "стандарт",
         "tsarga": true,
         "massive_frame": "Дуб",
+        "basic_cloth_not_updated": "mat-2",
         "cloth": "mat-2",
         "legs": "металлическая2"
     },
@@ -68,6 +70,7 @@
         "fluff": "синтетика",
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
+        "basic_cloth_not_updated": "mat-7",
         "cloth": "mat-7",
         "legs": "дерево"
     },
@@ -92,6 +95,7 @@
         "fluff": "синтетика",
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
+        "basic_cloth_not_updated": "mat-7",
         "cloth": "mat-7",
         "legs": "дерево"
     },
@@ -122,6 +126,7 @@
         "thickness_armret": 50,
         "carriage_screed": true,
         "backsplash": false,
+        "basic_cloth_not_updated": "mat-4",
         "cloth": "mat-4",
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
@@ -156,6 +161,7 @@
         "thickness_armret": 270,
         "carriage_screed": true,
         "backsplash": true,
+        "basic_cloth_not_updated": "mat-3",
         "cloth": "mat-3",
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
@@ -190,6 +196,7 @@
         "thickness_armret": 120,
         "carriage_screed": false,
         "backsplash": true,
+        "basic_cloth_not_updated": "mat-1",
         "cloth": "mat-1",
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
