@@ -21,7 +21,7 @@
         "tsarga": true,
         "massive_frame": "МДф",
         "cloth": "mat-1",
-        "legs": "металлическая1",
+        "legs": "металлическая1"
     },
     {
         "id": "cart-2",
@@ -45,7 +45,7 @@
         "tsarga": true,
         "massive_frame": "Дуб",
         "cloth": "mat-2",
-        "legs": "металлическая2",
+        "legs": "металлическая2"
     },
     {
         "id": "cart-3",
@@ -69,7 +69,7 @@
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
         "cloth": "mat-7",
-        "legs": "дерево",
+        "legs": "дерево"
     },
     {
         "id": "cart-4",
@@ -93,7 +93,7 @@
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
         "cloth": "mat-7",
-        "legs": "дерево",
+        "legs": "дерево"
     },
     {
         "id": "cart-5",
@@ -126,7 +126,7 @@
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
         "cloth_back": 0.3,
-        "legs": "металлическая2",
+        "legs": "металлическая2"
     },
     {
         "id": "cart-6",
@@ -160,7 +160,7 @@
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
         "cloth_back": 0.25,
-        "legs": "дерево",
+        "legs": "дерево"
     },
     {
         "id": "cart-7",
@@ -194,6 +194,6 @@
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
         "cloth_back": 0.3,
-        "legs": "дерево",
+        "legs": "дерево"
     }
 ]
