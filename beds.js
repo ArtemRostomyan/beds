@@ -20,7 +20,8 @@
         "headboard": false,
         "tsarga": true,
         "massive_frame": "МДф",
-        "cloth": "mat-1"
+        "cloth": "mat-1",
+        "legs": "металлическая1",
     },
     {
         "id": "cart-2",
@@ -43,7 +44,8 @@
         "headboard": "стандарт",
         "tsarga": true,
         "massive_frame": "Дуб",
-        "cloth": "mat-2"
+        "cloth": "mat-2",
+        "legs": "металлическая2",
     },
     {
         "id": "cart-3",
@@ -66,7 +68,8 @@
         "fluff": "синтетика",
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
-        "cloth": "mat-7"
+        "cloth": "mat-7",
+        "legs": "дерево",
     },
     {
         "id": "cart-4",
@@ -89,7 +92,8 @@
         "fluff": "синтетика",
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
-        "cloth": "mat-7"
+        "cloth": "mat-7",
+        "legs": "дерево",
     },
     {
         "id": "cart-5",
@@ -121,7 +125,8 @@
         "cloth": "mat-4",
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
-        "cloth_back": 0.3
+        "cloth_back": 0.3,
+        "legs": "металлическая2",
     },
     {
         "id": "cart-6",
@@ -141,6 +146,7 @@
         "armrest": true,
         "kant": false,
         "array_frame": true,
+        "frame_base": "американский_орех",
         "fluff": "синтетика",
         "foam": "мягкий",
         "material_complex": "сложная",
@@ -153,7 +159,8 @@
         "cloth": "mat-3",
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
-        "cloth_back": 0.25
+        "cloth_back": 0.25,
+        "legs": "дерево",
     },
     {
         "id": "cart-7",
@@ -173,6 +180,7 @@
         "armrest": true,
         "kant": true,
         "array_frame": true,
+        "frame_base": "массив_дуба",
         "fluff": "синтетика",
         "foam": "средний",
         "material_complex": "простая",
@@ -185,6 +193,7 @@
         "cloth": "mat-1",
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
-        "cloth_back": 0.3
+        "cloth_back": 0.3,
+        "legs": "дерево",
     }
 ]
