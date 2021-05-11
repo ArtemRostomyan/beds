@@ -104,7 +104,7 @@
         "name": "Panda",
         "type": "sofa",
         "images": [
-            "https://avatars.mds.yandex.net/get-zen_doc/29317/pub_5b3b8a591d90db00a869fd57_5b3b8aa5768c8100a9d0e613/scale_1200",
+            "https://img5.goodfon.ru/wallpaper/nbig/1/d1/tsypliata-ptentsy-kvartet.jpg",
             "https://fotovmire.ru/wp-content/uploads/2019/10/25695/vylupivshiesja-cypljata-nahodjatsja-v-nadjozhnyh-rukah.jpg",
             "https://img5.goodfon.ru/wallpaper/nbig/1/d1/tsypliata-ptentsy-kvartet.jpg",
             "https://fb.ru/misc/i/gallery/58725/2462754.jpg",
@@ -138,7 +138,7 @@
         "name": "Mariya",
         "type": "sofa",
         "images": [
-            "https://pbs.twimg.com/media/EuMgeIXWQAsiQJb.jpg",
+            "https://avatars.mds.yandex.net/get-zen_doc/29317/pub_5b3b8a591d90db00a869fd57_5b3b8aa5768c8100a9d0e613/scale_1200",
             "https://65.img.avito.st/1280x960/8477542965.jpg",
             "https://i.pinimg.com/originals/45/6d/08/456d0820b83c7a21aec87ea493077b99.jpg",
             "https://pbs.twimg.com/media/EuMgeIXWQAsiQJb.jpg",
