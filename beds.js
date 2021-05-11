@@ -104,7 +104,7 @@
         "name": "Panda",
         "type": "sofa",
         "images": [
-            "http://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkC8lsFXH8vJULQccCe9nfCKaKTM5SRkZCeTgDn6uOyic",
+            "https://avatars.mds.yandex.net/get-zen_doc/29317/pub_5b3b8a591d90db00a869fd57_5b3b8aa5768c8100a9d0e613/scale_1200",
             "https://fotovmire.ru/wp-content/uploads/2019/10/25695/vylupivshiesja-cypljata-nahodjatsja-v-nadjozhnyh-rukah.jpg",
             "https://img5.goodfon.ru/wallpaper/nbig/1/d1/tsypliata-ptentsy-kvartet.jpg",
             "https://fb.ru/misc/i/gallery/58725/2462754.jpg",
