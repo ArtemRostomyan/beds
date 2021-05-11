@@ -11,7 +11,7 @@
             "http://rina-mebel.ru/uploadedFiles/eshopimages/big/krovat_tokio_4.jpg"
         ],
         "kant": true,
-        "mechanizm": false,
+        "permission_mechanizm": false,
         "length": 900,
         "frame": "дуб",
         "carriage_screed": false,
@@ -36,7 +36,7 @@
             "https://www.vashmatrass.ru/files/images/ecommerce/bigproduct-143522745829087200.jpeg"
         ],
         "kant": true,
-        "mechanizm": true,
+        "permission_mechanizm": true,
         "length": 1400,
         "frame": "бук",
         "carriage_screed": true,
@@ -61,7 +61,7 @@
             "https://mnogosna.ru/images/products/product_add_pic_29431.jpg"
         ],
         "kant": true,
-        "mechanizm": true,
+        "permission_mechanizm": true,
         "length": 1800,
         "frame": "орех",
         "carriage_screed": true,
@@ -86,7 +86,7 @@
             "https://mnogosna.ru/images/products/product_add_pic_16431.jpg"
         ],
         "kant": true,
-        "mechanizm": false,
+        "permission_mechanizm": false,
         "length": 1400,
         "frame": "дуб",
         "carriage_screed": false,
