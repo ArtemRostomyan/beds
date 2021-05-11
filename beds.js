@@ -138,7 +138,7 @@
         "name": "Mariya",
         "type": "sofa",
         "images": [
-            "https://img1.badfon.ru/original/1440x900/3/ac/porosenok-utochka-igrushka-luzha.jpg",
+            "https://pbs.twimg.com/media/EuMgeIXWQAsiQJb.jpg",
             "https://65.img.avito.st/1280x960/8477542965.jpg",
             "https://i.pinimg.com/originals/45/6d/08/456d0820b83c7a21aec87ea493077b99.jpg",
             "https://pbs.twimg.com/media/EuMgeIXWQAsiQJb.jpg",
