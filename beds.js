@@ -104,11 +104,11 @@
         "name": "Panda",
         "type": "sofa",
         "images": [
-            "https://valles.top/upload/iblock/50d/50d812974d9418810e23aebb9205d1e4.jpeg",
-            "https://valles.top/upload/iblock/bda/bda83b7f5ff738c043cad65be5937256.jpeg",
-            "https://valles.top/upload/iblock/3dc/3dc84be1dec589cb664a8d6883351929.jpeg",
-            "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg",
-            "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg"
+            "http://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1RkC8lsFXH8vJULQccCe9nfCKaKTM5SRkZCeTgDn6uOyic",
+            "https://fotovmire.ru/wp-content/uploads/2019/10/25695/vylupivshiesja-cypljata-nahodjatsja-v-nadjozhnyh-rukah.jpg",
+            "https://img5.goodfon.ru/wallpaper/nbig/1/d1/tsypliata-ptentsy-kvartet.jpg",
+            "https://fb.ru/misc/i/gallery/58725/2462754.jpg",
+            "https://img4.goodfon.ru/wallpaper/nbig/b/88/malysh-zheltyi-tsyplenok.jpg"
         ],
         "width": 850,
         "rhomb": false,
@@ -138,11 +138,11 @@
         "name": "Mariya",
         "type": "sofa",
         "images": [
-            "https://mebilar.ru/wa-data/public/shop/products/54/17/1754/images/8821/Mirta_uglovoy_2500render.970.jpg",
-            "https://mebilar.ru/wa-data/public/shop/products/54/17/1754/images/8822/Polite_316_bezhevyy_lilii_kant-temnyy_.970.jpg",
-            "https://mebilar.ru/wa-data/public/shop/products/54/17/1754/images/8823/Uglovoy-divan-garmoniya-tsveta-2-Mirta-levyy-tkan-bezhevyy-podushki-lilii-TD-300-1-mekhanizm-transformatsii-delfin.970.jpg",
-            "https://valles.top/upload/iblock/25e/25e28b906a1acbfec5e438ab9e882527.jpg",
-            "https://valles.top/upload/iblock/118/1180eec06cd6e4c0d0c66bb07161b47b.jpeg"
+            "https://img1.badfon.ru/original/1440x900/3/ac/porosenok-utochka-igrushka-luzha.jpg",
+            "https://65.img.avito.st/1280x960/8477542965.jpg",
+            "https://i.pinimg.com/originals/45/6d/08/456d0820b83c7a21aec87ea493077b99.jpg",
+            "https://pbs.twimg.com/media/EuMgeIXWQAsiQJb.jpg",
+            "https://avatars.mds.yandex.net/get-ynews/69397/ac0ba01cff03a927e5df13054763477f/992x496"
         ],
         "width": 900,
         "rhomb": true,
@@ -173,11 +173,11 @@
         "name": "Irina",
         "type": "sofa",
         "images": [
-            "https://asmdivan.ru/images/0002/0094.jpg",
-            "https://asmdivan.ru/images/0002/0091.jpg",
-            "https://asmdivan.ru/images/0002/0061.jpg",
-            "https://asmdivan.ru/images/0002/0097.jpg",
-            "https://asmdivan.ru/images/0002/0073.jpg"
+            "http://komotoz.ru/photo/images/photo_oleney/photo_oleney_28.jpg",
+            "https://a.d-cd.net/zxgAAgH7j-A-960.jpg",
+            "https://img2.goodfon.ru/wallpaper/nbig/f/9b/olen-roga-vozhak.jpg",
+            "https://img5.goodfon.ru/wallpaper/nbig/e/dd/zima-olen-peizazh.jpg",
+            "https://get.pxhere.com/photo/prairie-wildlife-deer-mammal-fauna-grassland-vertebrate-white-tailed-deer-manchurian-stag-summer-coat-antlers-in-velvet-541030.jpg"
         ],
         "width": 1020,
         "configuration": "угловой_с_оттоманкой",
