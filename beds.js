@@ -1,4 +1,5 @@
-[
+
+  [
     {
         "id": "cart-1",
         "type": "bed",
@@ -152,6 +153,7 @@
         "cloth_armrest": 2.4,
         "cloth_back": 0.3,
         "legs": "металлическая2",
+        "napolnitel": "nap-3",
         "dop_info": {
             "visota_spalnogo_mesta": 45,
             "visota_chelikom": 89,
@@ -192,6 +194,7 @@
         "cloth_armrest": 2.1,
         "cloth_back": 0.25,
         "legs": "дерево",
+        "napolnitel": "nap-2",
         "dop_info": {
             "visota_spalnogo_mesta": 40,
             "visota_chelikom": 85,
@@ -232,6 +235,7 @@
         "cloth_armrest": 1.7,
         "cloth_back": 0.3,
         "legs": "дерево",
+        "napolnitel": "nap-1",
         "dop_info": {
             "visota_spalnogo_mesta": 50,
             "visota_chelikom": 95,
