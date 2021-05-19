@@ -1,4 +1,4 @@
-  [
+[
     {
         "id": "cart-1",
         "type": "bed",
@@ -22,7 +22,12 @@
         "massive_frame": "МДф",
         "basic_cloth_not_updated": "mat-1",
         "cloth": "mat-1",
-        "legs": "металлическая1"
+        "legs": "металлическая1",
+        "dop_info": {
+            "visota_spalnogo_mesta": 57,
+            "visota_chelikom": 99,
+            "glubina_posadki": 71
+        }
     },
     {
         "id": "cart-2",
@@ -47,7 +52,12 @@
         "massive_frame": "Дуб",
         "basic_cloth_not_updated": "mat-2",
         "cloth": "mat-2",
-        "legs": "металлическая2"
+        "legs": "металлическая2",
+        "dop_info": {
+            "visota_spalnogo_mesta": 46,
+            "visota_chelikom": 88,
+            "glubina_posadki": 69
+        }
     },
     {
         "id": "cart-3",
@@ -72,7 +82,12 @@
         "massive_frame": "МДф",
         "basic_cloth_not_updated": "mat-7",
         "cloth": "mat-7",
-        "legs": "дерево"
+        "legs": "дерево",
+        "dop_info": {
+            "visota_spalnogo_mesta": 56,
+            "visota_chelikom": 77,
+            "glubina_posadki": 63
+        }
     },
     {
         "id": "cart-4",
@@ -97,7 +112,12 @@
         "massive_frame": "МДф",
         "basic_cloth_not_updated": "mat-7",
         "cloth": "mat-7",
-        "legs": "дерево"
+        "legs": "дерево",
+        "dop_info": {
+            "visota_spalnogo_mesta": 75,
+            "visota_chelikom": 149,
+            "glubina_posadki": 49
+        }
     },
     {
         "id": "cart-5",
@@ -131,7 +151,12 @@
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
         "cloth_back": 0.3,
-        "legs": "металлическая2"
+        "legs": "металлическая2",
+        "dop_info": {
+            "visota_spalnogo_mesta": 45,
+            "visota_chelikom": 89,
+            "glubina_posadki": 59
+        }
     },
     {
         "id": "cart-6",
@@ -166,7 +191,12 @@
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
         "cloth_back": 0.25,
-        "legs": "дерево"
+        "legs": "дерево",
+        "dop_info": {
+            "visota_spalnogo_mesta": 40,
+            "visota_chelikom": 85,
+            "glubina_posadki": 66
+        }
     },
     {
         "id": "cart-7",
@@ -201,6 +231,11 @@
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
         "cloth_back": 0.3,
-        "legs": "дерево"
+        "legs": "дерево",
+        "dop_info": {
+            "visota_spalnogo_mesta": 50,
+            "visota_chelikom": 95,
+            "glubina_posadki": 62
+        }
     }
 ]
