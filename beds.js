@@ -23,6 +23,7 @@
         "massive_frame": "МДф",
         "basic_cloth_not_updated": "mat-1",
         "cloth": "mat-1",
+        "DEFAULT_cloth": "mat-1",
         "legs": "металлическая1",
         "dop_info": {
             "visota_spalnogo_mesta": 57,
@@ -53,6 +54,7 @@
         "massive_frame": "Дуб",
         "basic_cloth_not_updated": "mat-2",
         "cloth": "mat-2",
+        "DEFAULT_cloth": "mat-2",
         "legs": "металлическая2",
         "dop_info": {
             "visota_spalnogo_mesta": 46,
@@ -83,6 +85,7 @@
         "massive_frame": "МДф",
         "basic_cloth_not_updated": "mat-7",
         "cloth": "mat-7",
+        "DEFAULT_cloth": "mat-7",
         "legs": "дерево",
         "dop_info": {
             "visota_spalnogo_mesta": 56,
@@ -113,6 +116,7 @@
         "massive_frame": "МДф",
         "basic_cloth_not_updated": "mat-7",
         "cloth": "mat-7",
+        "DEFAULT_cloth": "mat-7",
         "legs": "дерево",
         "dop_info": {
             "visota_spalnogo_mesta": 75,
@@ -149,6 +153,7 @@
         "backsplash": false,
         "basic_cloth_not_updated": "mat-4",
         "cloth": "mat-4",
+        "DEFAULT_cloth": "mat-4",
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
         "cloth_back": 0.3,
@@ -190,6 +195,7 @@
         "backsplash": true,
         "basic_cloth_not_updated": "mat-3",
         "cloth": "mat-3",
+        "DEFAULT_cloth": "mat-3",
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
         "cloth_back": 0.25,
@@ -231,6 +237,7 @@
         "backsplash": true,
         "basic_cloth_not_updated": "mat-1",
         "cloth": "mat-1",
+        "DEFAULT_cloth": "mat-1",
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
         "cloth_back": 0.3,
