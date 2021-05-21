@@ -166,7 +166,7 @@
         "name": "Mariya",
         "type": "sofa",
         "images": [
-            "https://avatars.mds.yandex.net/get-zen_doc/29317/pub_5b3b8a591d90db00a869fd57_5b3b8aa5768c8100a9d0e613/scale_1200",
+            "https://sun9-55.userapi.com/If8mpkY82X_trFzhIoT_KVuViYs8Cd_lS1Fmzg/RkhzzlEjsEk.jpg",
             "https://65.img.avito.st/1280x960/8477542965.jpg",
             "https://i.pinimg.com/originals/45/6d/08/456d0820b83c7a21aec87ea493077b99.jpg",
             "https://pbs.twimg.com/media/EuMgeIXWQAsiQJb.jpg",
