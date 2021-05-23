@@ -22,6 +22,7 @@
         "tsarga": true,
         "massive_frame": "МДф",
         "cloth": "mat-1",
+        "foam": "ультра soft",
         "DEFAULT_cloth": "mat-1",
         "legs": "металлическая1",
         "dop_info": {
@@ -52,6 +53,7 @@
         "tsarga": true,
         "massive_frame": "Дуб",
         "cloth": "mat-2",
+        "foam": "средний",
         "DEFAULT_cloth": "mat-2",
         "legs": "металлическая2",
         "dop_info": {
@@ -82,6 +84,7 @@
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
         "cloth": "mat-7",
+        "foam": "ультра soft",
         "DEFAULT_cloth": "mat-7",
         "legs": "дерево",
         "dop_info": {
@@ -112,6 +115,7 @@
         "rack_bottom": "ортопедическое",
         "massive_frame": "МДф",
         "cloth": "mat-7",
+        "foam": "мягкий",
         "DEFAULT_cloth": "mat-7",
         "legs": "дерево",
         "dop_info": {
