@@ -248,5 +248,37 @@
             "visota_chelikom": 95,
             "glubina_posadki": 62
         }
+    },
+    {
+        "id": "cart-8",
+        "childrens_furniture": true,
+        "type": "bed",
+        "name": "Milan Lucino",
+        "images": [
+            "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_1.jpeg",
+            "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_2.jpeg",
+            "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_3.jpeg",
+            "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_4.jpeg",
+            "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_5.jpeg"
+        ],
+        "kant": true,
+        "permission_mechanizm": true,
+        "length": 1200,
+        "frame": "дуб",
+        "carriage_screed": false,
+        "fluff": "синтетика",
+        "rack_bottom": "фанера",
+        "headboard": false,
+        "tsarga": true,
+        "massive_frame": "МДф",
+        "cloth": "mat-1",
+        "foam": "ультра soft",
+        "DEFAULT_cloth": "mat-1",
+        "legs": "металлическая2",
+        "dop_info": {
+            "visota_spalnogo_mesta": 62,
+            "visota_chelikom": 100,
+            "glubina_posadki": 70
+        }
     }
 ]
