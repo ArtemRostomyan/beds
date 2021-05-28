@@ -253,7 +253,7 @@
         "id": "cart-8",
         "childrens_furniture": true,
         "type": "bed",
-        "name": "Milan Lucino",
+        "name": "Minly Delly",
         "images": [
             "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_1.jpeg",
             "https://izhevsk.fabrikamatrasoff.ru/images/product_images/popup_images/720_2.jpeg",
