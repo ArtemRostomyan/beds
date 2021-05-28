@@ -269,6 +269,7 @@
         "fluff": "синтетика",
         "rack_bottom": "фанера",
         "headboard": false,
+        "napolnitel": "nap-1",
         "tsarga": true,
         "massive_frame": "МДф",
         "cloth": "mat-1",
