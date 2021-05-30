@@ -275,7 +275,7 @@
         "cloth": "mat-1",
         "foam": "ультра soft",
         "DEFAULT_cloth": "mat-1",
-        "children_legs_type": "leg-1",
+        "children_legs_type": "leg-3",
         "dop_info": {
             "visota_spalnogo_mesta": 62,
             "visota_chelikom": 100,
