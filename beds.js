@@ -210,7 +210,7 @@
         "name": "Irina",
         "type": "sofa",
         "images": [
-            "http://komotoz.ru/photo/images/photo_oleney/photo_oleney_28.jpg",
+            "https://i.pinimg.com/736x/02/6e/ee/026eeeb146bff378d58479905d19416e.jpg",
             "https://a.d-cd.net/zxgAAgH7j-A-960.jpg",
             "https://img2.goodfon.ru/wallpaper/nbig/f/9b/olen-roga-vozhak.jpg",
             "https://img5.goodfon.ru/wallpaper/nbig/e/dd/zima-olen-peizazh.jpg",
