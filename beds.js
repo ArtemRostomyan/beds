@@ -156,6 +156,7 @@
         "cloth_base": 0.22,
         "cloth_armrest": 2.4,
         "cloth_back": 0.3,
+        "DEFAULT_legs": 3,
         "legs": 3,
         "napolnitel": "nap-3",
         "dop_info": {
@@ -197,6 +198,7 @@
         "cloth_base": 0.27,
         "cloth_armrest": 2.1,
         "cloth_back": 0.25,
+        "DEFAULT_legs": 1,
         "legs": 1,
         "napolnitel": "nap-2",
         "dop_info": {
@@ -238,6 +240,7 @@
         "cloth_base": 0.22,
         "cloth_armrest": 1.7,
         "cloth_back": 0.3,
+        "DEFAULT_legs": 1,
         "legs": 1,
         "napolnitel": "nap-1",
         "dop_info": {
